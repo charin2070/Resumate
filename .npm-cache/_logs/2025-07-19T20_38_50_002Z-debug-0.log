@@ -1,0 +1,19 @@
+0 verbose cli F:\Program Files\nodejs\node.exe F:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.16.0
+3 silly config load:file:F:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:f:\res\dev\Resumate\.npmrc
+5 silly config load:file:F:\Users\Admin\.npmrc
+6 silly config load:file:F:\Users\Admin\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view eslint description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "eslint" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:f:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_38_50_002Z-
+10 verbose logfile f:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_38_50_002Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/eslint 4593ms (cache revalidated)
+13 verbose cwd f:\res\dev\Resumate
+14 verbose os Windows_NT 10.0.26100
+15 verbose node v22.16.0
+16 verbose npm  v10.9.2
+17 verbose exit 0
+18 info ok
