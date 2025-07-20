@@ -5,13 +5,13 @@
 4 silly config load:file:f:\res\dev\Resumate\.npmrc
 5 silly config load:file:F:\Users\Admin\.npmrc
 6 silly config load:file:F:\Users\Admin\AppData\Roaming\npm\etc\npmrc
-7 verbose title npm view react-day-picker description dist-tags.latest homepage version time
-8 verbose argv "view" "--json" "--" "react-day-picker" "description" "dist-tags.latest" "homepage" "version" "time"
-9 verbose logfile logs-max:10 dir:f:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_38_54_755Z-
-10 verbose logfile f:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_38_54_755Z-debug-0.log
-11 silly logfile start cleaning logs, removing 4 files
+7 verbose title npm view input-otp description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "input-otp" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:f:\res\dev\Resumate\.npm-cache\_logs\2025-07-20T00_44_06_415Z-
+10 verbose logfile f:\res\dev\Resumate\.npm-cache\_logs\2025-07-20T00_44_06_415Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
 12 silly logfile done cleaning log files
-13 http fetch GET 200 https://registry.npmjs.org/react-day-picker 2515ms (cache revalidated)
+13 http fetch GET 200 https://registry.npmjs.org/input-otp 2300ms (cache miss)
 14 verbose cwd f:\res\dev\Resumate
 15 verbose os Windows_NT 10.0.26100
 16 verbose node v22.16.0

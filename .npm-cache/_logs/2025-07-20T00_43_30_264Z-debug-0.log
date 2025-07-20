@@ -7,8 +7,8 @@
 6 silly config load:file:F:\Users\Admin\AppData\Roaming\npm\etc\npmrc
 7 verbose title npm config get registry
 8 verbose argv "config" "get" "registry"
-9 verbose logfile logs-max:10 dir:F:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_40_12_845Z-
-10 verbose logfile F:\res\dev\Resumate\.npm-cache\_logs\2025-07-19T20_40_12_845Z-debug-0.log
+9 verbose logfile logs-max:10 dir:F:\res\dev\Resumate\.npm-cache\_logs\2025-07-20T00_43_30_264Z-
+10 verbose logfile F:\res\dev\Resumate\.npm-cache\_logs\2025-07-20T00_43_30_264Z-debug-0.log
 11 silly logfile start cleaning logs, removing 1 files
 12 verbose cwd F:\res\dev\Resumate
 13 verbose os Windows_NT 10.0.26100
